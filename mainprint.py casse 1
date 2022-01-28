@@ -1,0 +1,10 @@
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+
+#constants
+a=10   
+b=10.254 
+c="hello Python" #print("hello Python")
+print(a)
+print(b)
+print(c)
